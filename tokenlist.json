@@ -1,0 +1,12 @@
+[
+  {
+    "name": "MANY Token",
+    "address": "0xab7aaf9e485a3bc885985184abe9fc6aba727bd6",
+    "symbol": "MANY",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://assets.coingecko.com/coins/images/12577/small/many_logo.jpg?1600873179"
+  },
+  
+  }
+ ]
