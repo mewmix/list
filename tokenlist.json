@@ -9,7 +9,7 @@
   },
   {
     "name": "MOAR Token",
-    "address": "  0xbf131dcbe3436dab8a7c82d9c3666d652ca38eab",
+    "address": "0xbf131dcbe3436dab8a7c82d9c3666d652ca38eab",
     "symbol": "MANY",
     "decimals": 18,
     "chainId": 1,
